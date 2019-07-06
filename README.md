@@ -1,3 +1,3 @@
-# 技術検証用リポジトリ
+# 謚陦捺､懆ｨｼ逕ｨ繝ｪ繝昴ず繝医Μ
 
 <http://kamitsuki-works.github.io/poc/>
